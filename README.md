@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" class="heading-element" >
   <h1>Hi there 👋, I'm Fatima-Ezzahra</h1>
 </p>
 <br>
@@ -7,7 +7,7 @@
 </p>
 
 ---
-
+<br>
 ## 🛠️ Tech Stack
 
 ### 🧠 Programming Languages  
@@ -48,7 +48,7 @@
 </p>
 
 ---
-
+>br>
 ## 📈 GitHub Stats
 
 <p align="center">
