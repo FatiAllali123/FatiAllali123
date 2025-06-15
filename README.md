@@ -1,8 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Fatima-Ezzahra</h1>
-<br>
+
 <p align="center"><strong>Software and Intelligent Systems Engineering student</strong></p>
+
 ---
-<br>
+
 ## 🛠️ Tech Stack
 
 ### 🧠 Programming Languages  
@@ -43,7 +44,7 @@
 </p>
 
 ---
-<br>
+
 ## 📈 GitHub Stats
 
 <p align="center">
