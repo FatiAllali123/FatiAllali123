@@ -1,7 +1,7 @@
 <p align="center">
   <h1>Hi there 👋, I'm Fatima-Ezzahra</h1>
 </p>
-
+<br>
 <p align="center">
   <strong>Software and Intelligent Systems Engineering student</strong>
 </p>
