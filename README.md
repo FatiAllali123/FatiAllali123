@@ -1,11 +1,6 @@
-<p align="center" class="heading-element" >
-  <h1>Hi there 👋, I'm Fatima-Ezzahra</h1>
-</p>
+<h1 align="center">Hi there 👋, I'm Fatima-Ezzahra</h1>
 <br>
-<p align="center">
-  <strong>Software and Intelligent Systems Engineering student</strong>
-</p>
-
+<p align="center"><strong>Software and Intelligent Systems Engineering student</strong></p>
 ---
 <br>
 ## 🛠️ Tech Stack
@@ -48,7 +43,7 @@
 </p>
 
 ---
->br>
+<br>
 ## 📈 GitHub Stats
 
 <p align="center">
