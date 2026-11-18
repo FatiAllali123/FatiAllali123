@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Fatima-Ezzahra</h1>
 <p align="center"><strong>Software and Intelligent Systems Engineering student</strong></p>
 <p align="center">
-  🌍 Tanger, Maroc &nbsp;|&nbsp; 📩 fatimaezzahraallali329@gmail.com &nbsp;|&nbsp; 🔍 <strong>Disponible pour un stage PFA (2 mois)</strong>
+  🌍 Tanger, Maroc &nbsp;|&nbsp; 📩 fatimaezzahraallali329@gmail.com &nbsp;|&nbsp; 🔍 <strong>Disponible pour un stage PFE (5 mois a 6 mois )</strong>
 </p>
 
 ---
